@@ -1,20 +1,10 @@
-const menuButton = document.querySelector('.menu-toggle');
-const navigation = document.querySelector('.site-nav');
-function closeMenu() {
-  menuButton.setAttribute('aria-expanded', 'false');
-  menuButton.setAttribute('aria-label', 'Open menu');
-  navigation.classList.remove('open');
+// Language pages share section IDs, so keep the current section when switching.
+function updateLanguageLinks() {
+  document.querySelectorAll('.language-link').forEach(link => {
+    const destination = new URL(link.getAttribute('href'), location.href);
+    destination.hash = location.hash;
+    link.href = destination.href;
+  });
 }
-menuButton.addEventListener('click', () => {
-  const expanded = menuButton.getAttribute('aria-expanded') !== 'true';
-  menuButton.setAttribute('aria-expanded', String(expanded));
-  menuButton.setAttribute('aria-label', expanded ? 'Close menu' : 'Open menu');
-  navigation.classList.toggle('open', expanded);
-});
-navigation.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
-document.addEventListener('keydown', event => {
-  if (event.key === 'Escape' && menuButton.getAttribute('aria-expanded') === 'true') {
-    closeMenu();
-    menuButton.focus();
-  }
-});
+updateLanguageLinks();
+window.addEventListener('hashchange', updateLanguageLinks);
