@@ -1,0 +1,386 @@
+{
+  "1": [
+    {
+      "name": "cover-georgia",
+      "alt": "Georgian modern architecture",
+      "width": 706,
+      "height": 1600
+    },
+    {
+      "name": "cover-city",
+      "alt": "City skyline",
+      "width": 729,
+      "height": 1600
+    }
+  ],
+  "2": [
+    {
+      "name": "wine-estate",
+      "alt": "Georgian wine estate and vineyards",
+      "width": 1600,
+      "height": 1033
+    },
+    {
+      "name": "residences",
+      "alt": "Residential development at sunset",
+      "width": 1600,
+      "height": 917
+    },
+    {
+      "name": "forest-residences",
+      "alt": "Residential buildings surrounded by forest",
+      "width": 1600,
+      "height": 901
+    }
+  ],
+  "3": [
+    {
+      "name": "award-1",
+      "alt": "Award recipients at the ceremony",
+      "width": 1254,
+      "height": 925
+    },
+    {
+      "name": "award-2",
+      "alt": "Presentation of an award",
+      "width": 1367,
+      "height": 917
+    },
+    {
+      "name": "award-3",
+      "alt": "Guests at the award ceremony",
+      "width": 979,
+      "height": 1275
+    },
+    {
+      "name": "award-4",
+      "alt": "Forum guests with an award",
+      "width": 1275,
+      "height": 1054
+    },
+    {
+      "name": "award-5",
+      "alt": "Guests at the gala dinner",
+      "width": 1275,
+      "height": 1192
+    },
+    {
+      "name": "award-6",
+      "alt": "Award recipient on stage",
+      "width": 1246,
+      "height": 817
+    },
+    {
+      "name": "award-7",
+      "alt": "Gala dinner audience",
+      "width": 1358,
+      "height": 800
+    }
+  ],
+  "4": [
+    {
+      "name": "panel-1",
+      "alt": "Real estate forum panel",
+      "width": 1600,
+      "height": 1092
+    },
+    {
+      "name": "panel-2",
+      "alt": "Speakers and conference audience",
+      "width": 1600,
+      "height": 1083
+    },
+    {
+      "name": "panel-3",
+      "alt": "Speaker presenting to an audience",
+      "width": 1504,
+      "height": 1004
+    }
+  ],
+  "5": [
+    {
+      "name": "discussion-1",
+      "alt": "Panel speakers at a business forum",
+      "width": 1483,
+      "height": 987
+    },
+    {
+      "name": "discussion-2",
+      "alt": "Presentation on a conference stage",
+      "width": 1500,
+      "height": 983
+    },
+    {
+      "name": "discussion-3",
+      "alt": "Real estate panel discussion",
+      "width": 1600,
+      "height": 985
+    },
+    {
+      "name": "discussion-4",
+      "alt": "Panel conversation",
+      "width": 1600,
+      "height": 1106
+    },
+    {
+      "name": "discussion-5",
+      "alt": "Business forum participants",
+      "width": 1600,
+      "height": 974
+    }
+  ],
+  "6": [
+    {
+      "name": "meeting-1",
+      "alt": "Roundtable business meeting",
+      "width": 1193,
+      "height": 1600
+    },
+    {
+      "name": "meeting-2",
+      "alt": "Company presentation and group discussion",
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "name": "meeting-3",
+      "alt": "Industry panel on stage",
+      "width": 1600,
+      "height": 893
+    },
+    {
+      "name": "meeting-4",
+      "alt": "Informal business networking",
+      "width": 1600,
+      "height": 1060
+    }
+  ],
+  "7": [
+    {
+      "name": "investment-1",
+      "alt": "Agreement signing at Tbilisi Silk Road Forum",
+      "width": 1600,
+      "height": 817
+    },
+    {
+      "name": "investment-2",
+      "alt": "Waterfront development rendering",
+      "width": 1600,
+      "height": 932
+    },
+    {
+      "name": "investment-3",
+      "alt": "Gonio Yachts and Marina architectural model",
+      "width": 835,
+      "height": 1600
+    },
+    {
+      "name": "investment-4",
+      "alt": "Aerial view of waterfront buildings and marina",
+      "width": 1600,
+      "height": 738
+    }
+  ],
+  "8": [
+    {
+      "name": "bank-1",
+      "alt": "Representatives at an agreement signing",
+      "width": 1242,
+      "height": 921
+    },
+    {
+      "name": "bank-2",
+      "alt": "Digital construction forum",
+      "width": 1342,
+      "height": 917
+    },
+    {
+      "name": "bank-3",
+      "alt": "Business consultation",
+      "width": 1242,
+      "height": 1237
+    },
+    {
+      "name": "bank-4",
+      "alt": "Signing business documents",
+      "width": 1216,
+      "height": 917
+    },
+    {
+      "name": "bank-5",
+      "alt": "Banking panel discussion",
+      "width": 1263,
+      "height": 937
+    },
+    {
+      "name": "bank-6",
+      "alt": "Bank partnership announcement",
+      "width": 1061,
+      "height": 1600
+    }
+  ],
+  "9": [
+    {
+      "name": "support-1",
+      "alt": "Professional consultation",
+      "width": 1567,
+      "height": 1038
+    },
+    {
+      "name": "support-2",
+      "alt": "Resort hotel and swimming pool",
+      "width": 1600,
+      "height": 987
+    },
+    {
+      "name": "support-3",
+      "alt": "Property consultation and key handover",
+      "width": 1600,
+      "height": 1063
+    },
+    {
+      "name": "support-4",
+      "alt": "Business and property advice",
+      "width": 1575,
+      "height": 1063
+    }
+  ],
+  "10": [
+    {
+      "name": "hotel-1",
+      "alt": "International hotel development",
+      "width": 1600,
+      "height": 1037
+    },
+    {
+      "name": "hotel-2",
+      "alt": "Business workshop",
+      "width": 1600,
+      "height": 1014
+    },
+    {
+      "name": "hotel-3",
+      "alt": "Hotel atrium and reception",
+      "width": 1600,
+      "height": 1098
+    },
+    {
+      "name": "hotel-4",
+      "alt": "Real estate exhibition participants",
+      "width": 1600,
+      "height": 1595
+    }
+  ],
+  "11": [
+    {
+      "name": "insurance-1",
+      "alt": "Insurance industry representative",
+      "width": 1600,
+      "height": 1115
+    },
+    {
+      "name": "insurance-2",
+      "alt": "Financing agreement signing",
+      "width": 998,
+      "height": 1600
+    },
+    {
+      "name": "insurance-3",
+      "alt": "Industry panel discussion",
+      "width": 1600,
+      "height": 1068
+    },
+    {
+      "name": "insurance-4",
+      "alt": "Forum presentation and audience",
+      "width": 1600,
+      "height": 1080
+    }
+  ],
+  "12": [
+    {
+      "name": "tourism-1",
+      "alt": "Georgian wine cellar",
+      "width": 1600,
+      "height": 1058
+    },
+    {
+      "name": "tourism-2",
+      "alt": "Medical tourism treatment",
+      "width": 1351,
+      "height": 1208
+    },
+    {
+      "name": "tourism-3",
+      "alt": "Gala venue",
+      "width": 1600,
+      "height": 829
+    },
+    {
+      "name": "tourism-4",
+      "alt": "Batumi waterfront development",
+      "width": 1600,
+      "height": 1268
+    }
+  ],
+  "13": [
+    {
+      "name": "project-1",
+      "alt": "Landscaped hotel beside a lake",
+      "width": 1600,
+      "height": 879
+    },
+    {
+      "name": "project-2",
+      "alt": "Contemporary towers and gardens",
+      "width": 1600,
+      "height": 887
+    }
+  ],
+  "14": [
+    {
+      "name": "organizer-house",
+      "alt": "Israel–Georgia Business House logo",
+      "width": 404,
+      "height": 350
+    },
+    {
+      "name": "organizer-media",
+      "alt": "Business Media Contact logo",
+      "width": 421,
+      "height": 334
+    },
+    {
+      "name": "nominee-logos",
+      "alt": "Business and government nominee logos",
+      "width": 1600,
+      "height": 694
+    },
+    {
+      "name": "media-logos",
+      "alt": "Media organization logos",
+      "width": 430,
+      "height": 1600
+    },
+    {
+      "name": "media-logos-bottom",
+      "alt": "International media logos",
+      "width": 1600,
+      "height": 133
+    },
+    {
+      "name": "flags",
+      "alt": "Israeli and Georgian flags",
+      "width": 406,
+      "height": 1600
+    }
+  ],
+  "15": [
+    {
+      "name": "contact-conference",
+      "alt": "Forum audience in a conference hall",
+      "width": 1600,
+      "height": 922
+    }
+  ]
+}
